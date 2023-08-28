@@ -1,22 +1,17 @@
 # Netflix-Dashboard-Tableau-and-Power-BI
 
 ## Carrying out a Viz using both Power BI and Tableau, comparing functionality and effectiveness
+In the meantime, you can interact with the Tableau dashboard [here](https://public.tableau.com/views/NetflixDashboard_16932591284400/NETFLIXDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/netflix.png)
----
-
-
-So I tried an experiment by carrying out a Viz using both Power BI and Tableau, taking int considerataion ease of use, time duration and aestheic. So I'll briefly share my experience with both softwares while taking on this project.
+Download the Power BI file [here](https://github.com/Sanjeevpatel45/Netflix-Dashboard-Using-Tableau-PowerBI/blob/main/Power%20BI%20Netflix%20Dashboard.pbix)
 
 
 
-
-  
-
+So I tried an experiment by carrying out a Viz using both Power BI and Tableau, taking into considerataion ease of use, time duration and aestheic. So I'll briefly share my experience with both softwares while taking on this project.
 
 VIZ WITH TABLEAU                            |       VIZ WITH POWER BI                  
 :------------------------------------------:|:-------------------------------:
-![](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/Tableau.png) | ![](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/Screenshot%20(548).png)
+![](https://github.com/Sanjeevpatel45/Netflix-Dashboard-Using-Tableau-PowerBI/blob/main/Tableau.png) | ![](https://github.com/Sanjeevpatel45/Netflix-Dashboard-Using-Tableau-PowerBI/blob/main/PowerBI.png)
 
 
 
@@ -34,7 +29,7 @@ Power BI though seems to be more easier and intuitive than Tableau. But Tableau 
 
 
 
-![](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/Tableau.png)
+![](https://github.com/Sanjeevpatel45/Netflix-Dashboard-Using-Tableau-PowerBI/blob/main/Tableau.png)
 ## **VIZ WITH TABLEAU**
 ---
 
@@ -48,7 +43,7 @@ As opposed to Tableau where you'd require to create each viz on a seperate sheet
 Power BI thus is much more easier to use and saves more time.
 
 
-![](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/Screenshot%20(548).png)
+![](https://github.com/Sanjeevpatel45/Netflix-Dashboard-Using-Tableau-PowerBI/blob/main/PowerBI.png)
 ## **VIZ WITH POWER BI**
 
 
@@ -62,17 +57,4 @@ Alright !!
 
 That will be all for now, I'll defintely try out more projects using both softwares and keep taking notes.
 
-In the meantime, you can interact with the Tableau dashboard [here](https://public.tableau.com/app/profile/victor.onyeaghala/viz/NetflixDashboard_16789467013690/NETFLIXDASHBOARD)
 
-Download the Power BI file [here](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/Power%20BI%20Netflix%20Project.pbix)
-
-Both Dashbaords for [Tableau](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/Netflix%20Dashboard.pdf) and [Power BI](https://github.com/charlezvictor/Netflix-Dashboard-Tableau-and-Power-BI/blob/main/Power%20BI%20Netflix%20Project.pdf) are available on pdf, just clcik on the one you'd love to see.
-
-
-### THANK YOU VERY MUCH
-
-![](https://github.com/charlezvictor/Sales_Analysis_Viz/blob/main/Thank%20you.jpg)
-
-
-I'm available to answer any questions and receive any recommendations you have concerning this project.
-Let's connect on [Linkedin](https://www.linkedin.com/in/victor-onyeaghala-08a909167/) and on [Twitter](https://www.twitter.com/_char_lez)
